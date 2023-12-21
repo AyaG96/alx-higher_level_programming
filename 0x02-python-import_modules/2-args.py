@@ -13,4 +13,3 @@ if __name__ == "__main__":
     while i <= n:
         print(f"{i}: {argv[i]}")
         i += 1
-
